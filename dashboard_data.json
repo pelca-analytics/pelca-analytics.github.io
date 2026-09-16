@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T10:15:22Z",
+  "generated_at": "2026-09-16T20:20:25Z",
   "source": {
     "provider": "GitHub REST API",
     "repository": "merce-fra/PELCA",
@@ -52,7 +52,7 @@
       "views_uniques": 41
     },
     "repository": {
-      "captured_at": "2026-09-16T10:15:22Z",
+      "captured_at": "2026-09-16T20:20:25Z",
       "captured_on": "2026-09-16",
       "stars": 12,
       "forks": 5,
@@ -66,7 +66,7 @@
       "pushed_at": "2026-04-07T12:44:15Z",
       "releases": 7,
       "release_assets": 4,
-      "release_asset_downloads": 37,
+      "release_asset_downloads": 38,
       "contributors": 2,
       "public_contributions": 18,
       "languages": 2
@@ -3556,7 +3556,7 @@
       "prerelease": false,
       "asset_name": "pelca.zip",
       "asset_size_bytes": 120675003.0,
-      "download_count": 15,
+      "download_count": 16,
       "download_url": "https://github.com/merce-fra/PELCA/releases/download/v1.1.2-bw/pelca.zip"
     },
     {
