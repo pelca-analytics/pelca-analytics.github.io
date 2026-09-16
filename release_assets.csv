@@ -1,0 +1,8 @@
+release_tag,release_name,published_at,prerelease,asset_name,asset_size_bytes,download_count,download_url
+v1.4.0,Release v1.4.0,2025-07-21T14:15:29Z,False,,,0,
+v1.3.1,Release v1.3.1,2025-04-22T15:09:59Z,False,,,0,
+v1.3.0,Release v1.3.0,2025-04-02T15:52:23Z,False,,,0,
+v1.1.2-bw,Release v1.1.2,2024-12-17T10:05:09Z,False,pelca.zip,120675003.0,15,https://github.com/merce-fra/PELCA/releases/download/v1.1.2-bw/pelca.zip
+v1.1.1,Release v1.1.1,2024-10-16T07:59:55Z,False,pelca.zip,100493255.0,7,https://github.com/merce-fra/PELCA/releases/download/v1.1.1/pelca.zip
+v1.1.0,Release v1.1.0,2024-10-11T09:38:36Z,False,pelca.zip,101114037.0,5,https://github.com/merce-fra/PELCA/releases/download/v1.1.0/pelca.zip
+V1.0,PELCA V1.0,2024-10-02T12:53:05Z,False,PELCA.zip,476115447.0,10,https://github.com/merce-fra/PELCA/releases/download/V1.0/PELCA.zip
