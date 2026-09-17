@@ -1,8 +1,8 @@
 {
   "site_url": "https://merce-pelca.github.io/",
   "search_type": "web",
-  "start_date": "2025-05-14",
-  "end_date": "2026-09-13",
+  "start_date": "2025-05-15",
+  "end_date": "2026-09-14",
   "timezone": "PT",
   "dimensions": {
     "daily": [
@@ -2497,15 +2497,22 @@
         "impressions": 7,
         "ctr_pct": 0.0,
         "position": 2.571
+      },
+      {
+        "date": "2026-09-14",
+        "clicks": 0,
+        "impressions": 14,
+        "ctr_pct": 0.0,
+        "position": 4.214
       }
     ],
     "queries": [
       {
         "query": "pelca",
         "clicks": 56,
-        "impressions": 1302,
-        "ctr_pct": 4.3011,
-        "position": 4.261
+        "impressions": 1315,
+        "ctr_pct": 4.2586,
+        "position": 4.262
       },
       {
         "query": "pel ca",
@@ -2554,16 +2561,16 @@
       {
         "country": "fra",
         "clicks": 92,
-        "impressions": 335,
-        "ctr_pct": 27.4627,
-        "position": 3.245
+        "impressions": 341,
+        "ctr_pct": 26.9795,
+        "position": 3.249
       },
       {
         "country": "jpn",
         "clicks": 6,
-        "impressions": 58,
-        "ctr_pct": 10.3448,
-        "position": 3.293
+        "impressions": 59,
+        "ctr_pct": 10.1695,
+        "position": 3.271
       },
       {
         "country": "deu",
@@ -2596,9 +2603,9 @@
       {
         "country": "usa",
         "clicks": 1,
-        "impressions": 216,
-        "ctr_pct": 0.463,
-        "position": 5.185
+        "impressions": 220,
+        "ctr_pct": 0.4545,
+        "position": 5.173
       },
       {
         "country": "bel",
@@ -2645,16 +2652,16 @@
       {
         "country": "bra",
         "clicks": 0,
-        "impressions": 99,
+        "impressions": 100,
         "ctr_pct": 0.0,
-        "position": 8.091
+        "position": 8.11
       },
       {
         "country": "mex",
         "clicks": 0,
-        "impressions": 74,
+        "impressions": 75,
         "ctr_pct": 0.0,
-        "position": 3.649
+        "position": 3.613
       },
       {
         "country": "moz",
@@ -2687,9 +2694,9 @@
       {
         "country": "chl",
         "clicks": 0,
-        "impressions": 30,
+        "impressions": 31,
         "ctr_pct": 0.0,
-        "position": 4.433
+        "position": 4.516
       },
       {
         "country": "ind",
@@ -3242,25 +3249,25 @@
       {
         "page": "https://merce-pelca.github.io/",
         "clicks": 117,
-        "impressions": 1729,
-        "ctr_pct": 6.7669,
-        "position": 4.467
+        "impressions": 1743,
+        "ctr_pct": 6.7126,
+        "position": 4.465
       }
     ],
     "devices": [
       {
         "device": "DESKTOP",
         "clicks": 104,
-        "impressions": 874,
-        "ctr_pct": 11.8993,
-        "position": 4.296
+        "impressions": 878,
+        "ctr_pct": 11.8451,
+        "position": 4.284
       },
       {
         "device": "MOBILE",
         "clicks": 13,
-        "impressions": 841,
-        "ctr_pct": 1.5458,
-        "position": 4.61
+        "impressions": 851,
+        "ctr_pct": 1.5276,
+        "position": 4.618
       },
       {
         "device": "TABLET",

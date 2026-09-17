@@ -1,4 +1,5 @@
 release_tag,release_name,published_at,prerelease,asset_name,asset_size_bytes,download_count,download_url
+v2.0.0,Release v2.0.0,2026-09-17T09:26:34Z,False,,,0,
 v1.4.0,Release v1.4.0,2025-07-21T14:15:29Z,False,,,0,
 v1.3.1,Release v1.3.1,2025-04-22T15:09:59Z,False,,,0,
 v1.3.0,Release v1.3.0,2025-04-02T15:52:23Z,False,,,0,
