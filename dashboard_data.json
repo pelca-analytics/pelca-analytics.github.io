@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T13:00:08Z",
+  "generated_at": "2026-09-24T13:00:08Z",
   "source": {
     "provider": "GitHub REST API",
     "repository": "merce-fra/PELCA",
@@ -9,64 +9,64 @@
   },
   "coverage": {
     "first_date": "2025-05-29",
-    "last_date": "2026-09-16",
-    "clones": 62.0,
-    "clones_uniques": 62.0,
-    "views": 83.2,
-    "views_uniques": 83.2
+    "last_date": "2026-09-23",
+    "clones": 62.5,
+    "clones_uniques": 62.5,
+    "views": 83.4,
+    "views_uniques": 83.4
   },
   "summary": {
     "archived_totals": {
-      "clones": 347,
-      "clones_uniques": 282,
-      "views": 5166,
-      "views_uniques": 1442
+      "clones": 367,
+      "clones_uniques": 296,
+      "views": 5513,
+      "views_uniques": 1467
     },
     "last_30_days": {
       "days": 30,
       "views": {
-        "value": 397,
-        "previous": 166,
-        "change_pct": 139.2
+        "value": 665,
+        "previous": 245,
+        "change_pct": 171.4
       },
       "views_uniques": {
-        "value": 106,
-        "previous": 30,
-        "change_pct": 253.3
+        "value": 109,
+        "previous": 52,
+        "change_pct": 109.6
       },
       "clones": {
-        "value": 40,
-        "previous": 13,
-        "change_pct": 207.7
+        "value": 51,
+        "previous": 22,
+        "change_pct": 131.8
       },
       "clones_uniques": {
-        "value": 39,
-        "previous": 12,
-        "change_pct": 225.0
+        "value": 44,
+        "previous": 21,
+        "change_pct": 109.5
       }
     },
     "last_14_days": {
-      "clones": 17,
-      "clones_uniques": 16,
-      "views": 150,
-      "views_uniques": 42
+      "clones": 32,
+      "clones_uniques": 25,
+      "views": 428,
+      "views_uniques": 47
     },
     "repository": {
-      "captured_at": "2026-09-17T13:00:08Z",
-      "captured_on": "2026-09-17",
-      "stars": 12,
+      "captured_at": "2026-09-24T13:00:08Z",
+      "captured_on": "2026-09-24",
+      "stars": 13,
       "forks": 5,
       "watchers": 2,
       "open_issues_and_prs": 4,
-      "repository_size_kb": 82600,
+      "repository_size_kb": 82349,
       "default_branch": "Release_PELCA_v2.0",
       "license": "NOASSERTION",
       "created_at": "2024-07-29T07:36:47Z",
-      "updated_at": "2026-09-17T07:27:28Z",
-      "pushed_at": "2026-09-17T09:26:33Z",
-      "releases": 8,
-      "release_assets": 4,
-      "release_asset_downloads": 38,
+      "updated_at": "2026-09-23T09:14:46Z",
+      "pushed_at": "2026-09-17T18:33:47Z",
+      "releases": 7,
+      "release_assets": 3,
+      "release_asset_downloads": 31,
       "contributors": 1,
       "public_contributions": 1,
       "languages": 2
@@ -3404,132 +3404,174 @@
       "clones_uniques": 2,
       "views": 21,
       "views_uniques": 4
+    },
+    {
+      "date": "2026-09-17",
+      "clones": 11,
+      "clones_uniques": 6,
+      "views": 256,
+      "views_uniques": 6
+    },
+    {
+      "date": "2026-09-18",
+      "clones": 4,
+      "clones_uniques": 4,
+      "views": 18,
+      "views_uniques": 3
+    },
+    {
+      "date": "2026-09-19",
+      "clones": 0,
+      "clones_uniques": 0,
+      "views": 0,
+      "views_uniques": 0
+    },
+    {
+      "date": "2026-09-20",
+      "clones": 1,
+      "clones_uniques": 1,
+      "views": 0,
+      "views_uniques": 0
+    },
+    {
+      "date": "2026-09-21",
+      "clones": 2,
+      "clones_uniques": 1,
+      "views": 29,
+      "views_uniques": 5
+    },
+    {
+      "date": "2026-09-22",
+      "clones": 1,
+      "clones_uniques": 1,
+      "views": 30,
+      "views_uniques": 7
+    },
+    {
+      "date": "2026-09-23",
+      "clones": 1,
+      "clones_uniques": 1,
+      "views": 14,
+      "views_uniques": 4
     }
   ],
   "referrers_latest": [
     {
-      "captured_on": "2026-09-17",
-      "window_days": 14,
-      "referrer": "teams.public.onecdn.static.microsoft",
-      "views": 37,
-      "unique_visitors": 4
-    },
-    {
-      "captured_on": "2026-09-17",
+      "captured_on": "2026-09-24",
       "window_days": 14,
       "referrer": "github.com",
-      "views": 29,
+      "views": 41,
       "unique_visitors": 12
     },
     {
-      "captured_on": "2026-09-17",
+      "captured_on": "2026-09-24",
       "window_days": 14,
       "referrer": "chatgpt.com",
       "views": 19,
       "unique_visitors": 1
     },
     {
-      "captured_on": "2026-09-17",
+      "captured_on": "2026-09-24",
       "window_days": 14,
-      "referrer": "Google",
-      "views": 8,
-      "unique_visitors": 3
+      "referrer": "merce-glpi.fr-merce.mee.com",
+      "views": 9,
+      "unique_visitors": 2
     },
     {
-      "captured_on": "2026-09-17",
+      "captured_on": "2026-09-24",
       "window_days": 14,
-      "referrer": "Bing",
-      "views": 1,
-      "unique_visitors": 1
+      "referrer": "Google",
+      "views": 4,
+      "unique_visitors": 2
     }
   ],
   "paths_latest": [
     {
-      "captured_on": "2026-09-17",
+      "captured_on": "2026-09-24",
       "window_days": 14,
       "path": "/merce-fra/PELCA",
       "title": "Overview",
-      "views": 50,
-      "unique_visitors": 20
+      "views": 118,
+      "unique_visitors": 29
     },
     {
-      "captured_on": "2026-09-17",
-      "window_days": 14,
-      "path": "/merce-fra/PELCA/tree/Release_PELCA_v1.4",
-      "title": "/tree/Release_PELCA_v1.4",
-      "views": 5,
-      "unique_visitors": 4
-    },
-    {
-      "captured_on": "2026-09-17",
-      "window_days": 14,
-      "path": "/merce-fra/PELCA/tree/Release_PELCA_v1.4/Images/PELCADeviceDesigner",
-      "title": "/tree/Release_PELCA_v1.4/Images/PELCADeviceDesigner",
-      "views": 5,
-      "unique_visitors": 4
-    },
-    {
-      "captured_on": "2026-09-17",
-      "window_days": 14,
-      "path": "/merce-fra/PELCA/blob/Release_PELCA_v1.4/Images/PELCADeviceDesigner/Figure1.svg",
-      "title": "/blob/Release_PELCA_v1.4/Images/PELCADeviceDesigner/Figure1.svg",
-      "views": 4,
-      "unique_visitors": 4
-    },
-    {
-      "captured_on": "2026-09-17",
-      "window_days": 14,
-      "path": "/merce-fra/PELCA/blob/Release_PELCA_v1.4/Images/PELCADeviceDesigner/Figure0.svg",
-      "title": "/blob/Release_PELCA_v1.4/Images/PELCADeviceDesigner/Figure0.svg",
-      "views": 4,
-      "unique_visitors": 3
-    },
-    {
-      "captured_on": "2026-09-17",
-      "window_days": 14,
-      "path": "/merce-fra/PELCA/blob/Release_PELCA_v1.4/Images/PELCADeviceDesigner/Figure14.svg",
-      "title": "/blob/Release_PELCA_v1.4/Images/PELCADeviceDesigner/Figure14.svg",
-      "views": 4,
-      "unique_visitors": 3
-    },
-    {
-      "captured_on": "2026-09-17",
-      "window_days": 14,
-      "path": "/merce-fra/PELCA/blob/Release_PELCA_v1.4/Images/PELCADeviceDesigner/Figure15.svg",
-      "title": "/blob/Release_PELCA_v1.4/Images/PELCADeviceDesigner/Figure15.svg",
-      "views": 4,
-      "unique_visitors": 3
-    },
-    {
-      "captured_on": "2026-09-17",
-      "window_days": 14,
-      "path": "/merce-fra/PELCA/blob/Release_PELCA_v1.4/Input example/PELCADeviceDesigner/PELCADeviceDesigner_Instructions.md",
-      "title": "/blob/Release_PELCA_v1.4/Input example/PELCADeviceDesigner/PELCADeviceDesigner_Instructions.md",
-      "views": 4,
-      "unique_visitors": 3
-    },
-    {
-      "captured_on": "2026-09-17",
+      "captured_on": "2026-09-24",
       "window_days": 14,
       "path": "/merce-fra/PELCA/releases",
       "title": "/releases",
-      "views": 4,
+      "views": 30,
+      "unique_visitors": 4
+    },
+    {
+      "captured_on": "2026-09-24",
+      "window_days": 14,
+      "path": "/merce-fra/PELCA/tags",
+      "title": "/tags",
+      "views": 15,
       "unique_visitors": 2
     },
     {
-      "captured_on": "2026-09-17",
+      "captured_on": "2026-09-24",
       "window_days": 14,
-      "path": "/merce-fra/PELCA/tree/Release_PELCA_v1.4/Input example",
-      "title": "/tree/Release_PELCA_v1.4/Input example",
-      "views": 4,
+      "path": "/merce-fra/PELCA/tree/Release_PELCA_v2.0",
+      "title": "/tree/Release_PELCA_v2.0",
+      "views": 13,
+      "unique_visitors": 4
+    },
+    {
+      "captured_on": "2026-09-24",
+      "window_days": 14,
+      "path": "/merce-fra/PELCA/blob/Release_PELCA_v2.0/CHANGELOG.md",
+      "title": "/blob/Release_PELCA_v2.0/CHANGELOG.md",
+      "views": 9,
+      "unique_visitors": 3
+    },
+    {
+      "captured_on": "2026-09-24",
+      "window_days": 14,
+      "path": "/merce-fra/PELCA/tree/Release_PELCA_v1.4/Input example/PELCADeviceDesigner",
+      "title": "/tree/Release_PELCA_v1.4/Input example/PELCADeviceDesigner",
+      "views": 7,
+      "unique_visitors": 3
+    },
+    {
+      "captured_on": "2026-09-24",
+      "window_days": 14,
+      "path": "/merce-fra/PELCA/blob/Release_PELCA_v2.0/PELCA datasets/PowerModuleAndCapacitor/PELCA_v2.0.0_PowerModuleAndCapacitor.xlsm",
+      "title": "/blob/Release_PELCA_v2.0/PELCA datasets/PowerModuleAndCapacitor/PELCA_v2.0.0_PowerModuleAndCapacitor.xlsm",
+      "views": 6,
+      "unique_visitors": 3
+    },
+    {
+      "captured_on": "2026-09-24",
+      "window_days": 14,
+      "path": "/merce-fra/PELCA/blob/Release_PELCA_v2.0/documentations/Algorithm.md",
+      "title": "/blob/Release_PELCA_v2.0/documentations/Algorithm.md",
+      "views": 6,
+      "unique_visitors": 2
+    },
+    {
+      "captured_on": "2026-09-24",
+      "window_days": 14,
+      "path": "/merce-fra/PELCA/branches",
+      "title": "/branches",
+      "views": 6,
+      "unique_visitors": 2
+    },
+    {
+      "captured_on": "2026-09-24",
+      "window_days": 14,
+      "path": "/merce-fra/PELCA/pulse",
+      "title": "/pulse",
+      "views": 6,
       "unique_visitors": 2
     }
   ],
   "release_assets": [
     {
-      "release_tag": "v2.0.0",
-      "release_name": "Release v2.0.0",
-      "published_at": "2026-09-17T09:26:34Z",
+      "release_tag": "V2.0",
+      "release_name": "Release V2.0",
+      "published_at": "2026-09-17T18:12:49Z",
       "prerelease": false,
       "asset_name": null,
       "asset_size_bytes": null,
@@ -3537,8 +3579,8 @@
       "download_url": null
     },
     {
-      "release_tag": "v1.4.0",
-      "release_name": "Release v1.4.0",
+      "release_tag": "V1.4",
+      "release_name": "Release V1.4",
       "published_at": "2025-07-21T14:15:29Z",
       "prerelease": false,
       "asset_name": null,
@@ -3547,8 +3589,8 @@
       "download_url": null
     },
     {
-      "release_tag": "v1.3.1",
-      "release_name": "Release v1.3.1",
+      "release_tag": "V1.3.1",
+      "release_name": "Release V1.3.1",
       "published_at": "2025-04-22T15:09:59Z",
       "prerelease": false,
       "asset_name": null,
@@ -3557,8 +3599,8 @@
       "download_url": null
     },
     {
-      "release_tag": "v1.3.0",
-      "release_name": "Release v1.3.0",
+      "release_tag": "V1.3",
+      "release_name": "Release V1.3",
       "published_at": "2025-04-02T15:52:23Z",
       "prerelease": false,
       "asset_name": null,
@@ -3567,38 +3609,28 @@
       "download_url": null
     },
     {
-      "release_tag": "v1.1.2-bw",
-      "release_name": "Release v1.1.2",
+      "release_tag": "V1.1.2",
+      "release_name": "Release V1.1.2",
       "published_at": "2024-12-17T10:05:09Z",
       "prerelease": false,
       "asset_name": "pelca.zip",
       "asset_size_bytes": 120675003.0,
       "download_count": 16,
-      "download_url": "https://github.com/merce-fra/PELCA/releases/download/v1.1.2-bw/pelca.zip"
+      "download_url": "https://github.com/merce-fra/PELCA/releases/download/V1.1.2/pelca.zip"
     },
     {
-      "release_tag": "v1.1.1",
-      "release_name": "Release v1.1.1",
-      "published_at": "2024-10-16T07:59:55Z",
-      "prerelease": false,
-      "asset_name": "pelca.zip",
-      "asset_size_bytes": 100493255.0,
-      "download_count": 7,
-      "download_url": "https://github.com/merce-fra/PELCA/releases/download/v1.1.1/pelca.zip"
-    },
-    {
-      "release_tag": "v1.1.0",
-      "release_name": "Release v1.1.0",
+      "release_tag": "V1.1",
+      "release_name": "Release V1.1",
       "published_at": "2024-10-11T09:38:36Z",
       "prerelease": false,
       "asset_name": "pelca.zip",
       "asset_size_bytes": 101114037.0,
       "download_count": 5,
-      "download_url": "https://github.com/merce-fra/PELCA/releases/download/v1.1.0/pelca.zip"
+      "download_url": "https://github.com/merce-fra/PELCA/releases/download/V1.1/pelca.zip"
     },
     {
       "release_tag": "V1.0",
-      "release_name": "PELCA V1.0",
+      "release_name": "RELEASE V1.0",
       "published_at": "2024-10-02T12:53:05Z",
       "prerelease": false,
       "asset_name": "PELCA.zip",
@@ -6128,22 +6160,71 @@
         "impressions": 14,
         "ctr_pct": 0.0,
         "position": 4.214
+      },
+      {
+        "date": "2026-09-15",
+        "clicks": 13,
+        "impressions": 24,
+        "ctr_pct": 54.1667,
+        "position": 2.042
+      },
+      {
+        "date": "2026-09-16",
+        "clicks": 9,
+        "impressions": 21,
+        "ctr_pct": 42.8571,
+        "position": 1.81
+      },
+      {
+        "date": "2026-09-17",
+        "clicks": 6,
+        "impressions": 28,
+        "ctr_pct": 21.4286,
+        "position": 3.0
+      },
+      {
+        "date": "2026-09-18",
+        "clicks": 5,
+        "impressions": 21,
+        "ctr_pct": 23.8095,
+        "position": 2.19
+      },
+      {
+        "date": "2026-09-19",
+        "clicks": 0,
+        "impressions": 12,
+        "ctr_pct": 0.0,
+        "position": 2.917
+      },
+      {
+        "date": "2026-09-20",
+        "clicks": 0,
+        "impressions": 4,
+        "ctr_pct": 0.0,
+        "position": 2.25
+      },
+      {
+        "date": "2026-09-21",
+        "clicks": 1,
+        "impressions": 12,
+        "ctr_pct": 8.3333,
+        "position": 3.5
       }
     ],
     "queries": [
       {
         "query": "pelca",
-        "clicks": 56,
-        "impressions": 1315,
-        "ctr_pct": 4.2586,
-        "position": 4.262
+        "clicks": 85,
+        "impressions": 1411,
+        "ctr_pct": 6.0241,
+        "position": 4.119
       },
       {
         "query": "pel ca",
         "clicks": 0,
-        "impressions": 10,
+        "impressions": 11,
         "ctr_pct": 0.0,
-        "position": 8.0
+        "position": 7.818
       },
       {
         "query": "plca",
@@ -6184,31 +6265,31 @@
     "countries": [
       {
         "country": "fra",
-        "clicks": 92,
-        "impressions": 341,
-        "ctr_pct": 26.9795,
-        "position": 3.249
+        "clicks": 122,
+        "impressions": 386,
+        "ctr_pct": 31.6062,
+        "position": 3.054
+      },
+      {
+        "country": "esp",
+        "clicks": 6,
+        "impressions": 116,
+        "ctr_pct": 5.1724,
+        "position": 4.034
       },
       {
         "country": "jpn",
         "clicks": 6,
-        "impressions": 59,
-        "ctr_pct": 10.1695,
-        "position": 3.271
+        "impressions": 60,
+        "ctr_pct": 10.0,
+        "position": 3.233
       },
       {
         "country": "deu",
         "clicks": 4,
-        "impressions": 48,
-        "ctr_pct": 8.3333,
-        "position": 3.542
-      },
-      {
-        "country": "esp",
-        "clicks": 3,
-        "impressions": 107,
-        "ctr_pct": 2.8037,
-        "position": 4.14
+        "impressions": 49,
+        "ctr_pct": 8.1633,
+        "position": 3.49
       },
       {
         "country": "che",
@@ -6227,16 +6308,16 @@
       {
         "country": "usa",
         "clicks": 1,
-        "impressions": 220,
-        "ctr_pct": 0.4545,
-        "position": 5.173
+        "impressions": 231,
+        "ctr_pct": 0.4329,
+        "position": 5.108
       },
       {
         "country": "bel",
         "clicks": 1,
-        "impressions": 40,
-        "ctr_pct": 2.5,
-        "position": 4.475
+        "impressions": 42,
+        "ctr_pct": 2.381,
+        "position": 4.405
       },
       {
         "country": "tur",
@@ -6246,11 +6327,18 @@
         "position": 3.05
       },
       {
+        "country": "prt",
+        "clicks": 1,
+        "impressions": 19,
+        "ctr_pct": 5.2632,
+        "position": 4.0
+      },
+      {
         "country": "aut",
         "clicks": 1,
-        "impressions": 8,
-        "ctr_pct": 12.5,
-        "position": 4.0
+        "impressions": 10,
+        "ctr_pct": 10.0,
+        "position": 3.6
       },
       {
         "country": "pol",
@@ -6276,65 +6364,72 @@
       {
         "country": "bra",
         "clicks": 0,
-        "impressions": 100,
+        "impressions": 103,
         "ctr_pct": 0.0,
-        "position": 8.11
+        "position": 8.087
       },
       {
         "country": "mex",
         "clicks": 0,
-        "impressions": 75,
+        "impressions": 79,
         "ctr_pct": 0.0,
-        "position": 3.613
+        "position": 3.506
       },
       {
         "country": "moz",
         "clicks": 0,
-        "impressions": 62,
+        "impressions": 70,
         "ctr_pct": 0.0,
-        "position": 3.677
+        "position": 3.429
       },
       {
         "country": "ita",
         "clicks": 0,
-        "impressions": 51,
+        "impressions": 59,
         "ctr_pct": 0.0,
-        "position": 2.824
-      },
-      {
-        "country": "gbr",
-        "clicks": 0,
-        "impressions": 38,
-        "ctr_pct": 0.0,
-        "position": 3.474
+        "position": 2.61
       },
       {
         "country": "arg",
         "clicks": 0,
-        "impressions": 37,
+        "impressions": 40,
         "ctr_pct": 0.0,
-        "position": 4.892
+        "position": 4.825
+      },
+      {
+        "country": "gbr",
+        "clicks": 0,
+        "impressions": 40,
+        "ctr_pct": 0.0,
+        "position": 3.4
       },
       {
         "country": "chl",
         "clicks": 0,
-        "impressions": 31,
+        "impressions": 32,
         "ctr_pct": 0.0,
-        "position": 4.516
+        "position": 4.406
       },
       {
         "country": "ind",
         "clicks": 0,
-        "impressions": 24,
+        "impressions": 25,
         "ctr_pct": 0.0,
-        "position": 6.708
+        "position": 6.68
       },
       {
         "country": "per",
         "clicks": 0,
+        "impressions": 25,
+        "ctr_pct": 0.0,
+        "position": 3.92
+      },
+      {
+        "country": "slv",
+        "clicks": 0,
         "impressions": 23,
         "ctr_pct": 0.0,
-        "position": 4.0
+        "position": 5.478
       },
       {
         "country": "ury",
@@ -6342,13 +6437,6 @@
         "impressions": 23,
         "ctr_pct": 0.0,
         "position": 4.609
-      },
-      {
-        "country": "slv",
-        "clicks": 0,
-        "impressions": 22,
-        "ctr_pct": 0.0,
-        "position": 5.273
       },
       {
         "country": "hnd",
@@ -6372,39 +6460,32 @@
         "position": 5.5
       },
       {
-        "country": "prt",
+        "country": "nld",
         "clicks": 0,
         "impressions": 15,
         "ctr_pct": 0.0,
-        "position": 4.8
-      },
-      {
-        "country": "nld",
-        "clicks": 0,
-        "impressions": 14,
-        "ctr_pct": 0.0,
-        "position": 3.357
+        "position": 3.2
       },
       {
         "country": "col",
         "clicks": 0,
-        "impressions": 13,
+        "impressions": 14,
         "ctr_pct": 0.0,
-        "position": 6.077
+        "position": 5.714
       },
       {
         "country": "phl",
         "clicks": 0,
-        "impressions": 12,
+        "impressions": 13,
         "ctr_pct": 0.0,
-        "position": 2.333
+        "position": 2.462
       },
       {
         "country": "aus",
         "clicks": 0,
-        "impressions": 10,
+        "impressions": 12,
         "ctr_pct": 0.0,
-        "position": 3.7
+        "position": 3.583
       },
       {
         "country": "mys",
@@ -6442,6 +6523,13 @@
         "position": 5.75
       },
       {
+        "country": "ecu",
+        "clicks": 0,
+        "impressions": 8,
+        "ctr_pct": 0.0,
+        "position": 5.25
+      },
+      {
         "country": "irn",
         "clicks": 0,
         "impressions": 8,
@@ -6463,11 +6551,25 @@
         "position": 21.0
       },
       {
+        "country": "dnk",
+        "clicks": 0,
+        "impressions": 7,
+        "ctr_pct": 0.0,
+        "position": 4.857
+      },
+      {
         "country": "nga",
         "clicks": 0,
         "impressions": 7,
         "ctr_pct": 0.0,
         "position": 7.429
+      },
+      {
+        "country": "are",
+        "clicks": 0,
+        "impressions": 6,
+        "ctr_pct": 0.0,
+        "position": 2.0
       },
       {
         "country": "cri",
@@ -6477,11 +6579,11 @@
         "position": 3.667
       },
       {
-        "country": "ecu",
+        "country": "kor",
         "clicks": 0,
         "impressions": 6,
         "ctr_pct": 0.0,
-        "position": 5.0
+        "position": 6.0
       },
       {
         "country": "tha",
@@ -6489,13 +6591,6 @@
         "impressions": 6,
         "ctr_pct": 0.0,
         "position": 12.0
-      },
-      {
-        "country": "dnk",
-        "clicks": 0,
-        "impressions": 5,
-        "ctr_pct": 0.0,
-        "position": 5.4
       },
       {
         "country": "fin",
@@ -6554,13 +6649,6 @@
         "position": 6.8
       },
       {
-        "country": "are",
-        "clicks": 0,
-        "impressions": 4,
-        "ctr_pct": 0.0,
-        "position": 1.25
-      },
-      {
         "country": "hun",
         "clicks": 0,
         "impressions": 4,
@@ -6573,13 +6661,6 @@
         "impressions": 4,
         "ctr_pct": 0.0,
         "position": 1.0
-      },
-      {
-        "country": "kor",
-        "clicks": 0,
-        "impressions": 4,
-        "ctr_pct": 0.0,
-        "position": 4.5
       },
       {
         "country": "mar",
@@ -6736,6 +6817,13 @@
         "position": 1.0
       },
       {
+        "country": "nor",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr_pct": 0.0,
+        "position": 2.5
+      },
+      {
         "country": "uzb",
         "clicks": 0,
         "impressions": 2,
@@ -6820,13 +6908,6 @@
         "position": 4.0
       },
       {
-        "country": "nor",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr_pct": 0.0,
-        "position": 1.0
-      },
-      {
         "country": "pry",
         "clicks": 0,
         "impressions": 1,
@@ -6872,33 +6953,33 @@
     "pages": [
       {
         "page": "https://merce-pelca.github.io/",
-        "clicks": 117,
-        "impressions": 1743,
-        "ctr_pct": 6.7126,
-        "position": 4.465
+        "clicks": 151,
+        "impressions": 1865,
+        "ctr_pct": 8.0965,
+        "position": 4.335
       }
     ],
     "devices": [
       {
         "device": "DESKTOP",
-        "clicks": 104,
-        "impressions": 878,
-        "ctr_pct": 11.8451,
-        "position": 4.284
+        "clicks": 136,
+        "impressions": 955,
+        "ctr_pct": 14.2408,
+        "position": 4.128
       },
       {
         "device": "MOBILE",
-        "clicks": 13,
-        "impressions": 851,
-        "ctr_pct": 1.5276,
-        "position": 4.618
+        "clicks": 15,
+        "impressions": 894,
+        "ctr_pct": 1.6779,
+        "position": 4.53
       },
       {
         "device": "TABLET",
         "clicks": 0,
-        "impressions": 14,
+        "impressions": 16,
         "ctr_pct": 0.0,
-        "position": 6.5
+        "position": 5.812
       }
     ],
     "appearances": []
