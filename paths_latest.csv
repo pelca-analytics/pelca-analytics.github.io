@@ -1,11 +1,11 @@
 captured_on,window_days,path,title,views,unique_visitors
-2026-09-24,14,/merce-fra/PELCA,Overview,118,29
-2026-09-24,14,/merce-fra/PELCA/releases,/releases,30,4
-2026-09-24,14,/merce-fra/PELCA/tags,/tags,15,2
-2026-09-24,14,/merce-fra/PELCA/tree/Release_PELCA_v2.0,/tree/Release_PELCA_v2.0,13,4
-2026-09-24,14,/merce-fra/PELCA/blob/Release_PELCA_v2.0/CHANGELOG.md,/blob/Release_PELCA_v2.0/CHANGELOG.md,9,3
-2026-09-24,14,/merce-fra/PELCA/tree/Release_PELCA_v1.4/Input example/PELCADeviceDesigner,/tree/Release_PELCA_v1.4/Input example/PELCADeviceDesigner,7,3
-2026-09-24,14,/merce-fra/PELCA/blob/Release_PELCA_v2.0/PELCA datasets/PowerModuleAndCapacitor/PELCA_v2.0.0_PowerModuleAndCapacitor.xlsm,/blob/Release_PELCA_v2.0/PELCA datasets/PowerModuleAndCapacitor/PELCA_v2.0.0_PowerModuleAndCapacitor.xlsm,6,3
-2026-09-24,14,/merce-fra/PELCA/blob/Release_PELCA_v2.0/documentations/Algorithm.md,/blob/Release_PELCA_v2.0/documentations/Algorithm.md,6,2
-2026-09-24,14,/merce-fra/PELCA/branches,/branches,6,2
-2026-09-24,14,/merce-fra/PELCA/pulse,/pulse,6,2
+2026-10-01,14,/merce-fra/PELCA,Overview,157,40
+2026-10-01,14,/merce-fra/PELCA/releases,/releases,29,5
+2026-10-01,14,/merce-fra/PELCA/tree/Release_PELCA_v2.0,/tree/Release_PELCA_v2.0,20,7
+2026-10-01,14,/merce-fra/PELCA/tags,/tags,15,2
+2026-10-01,14,/merce-fra/PELCA/tree/Release_PELCA_v2.0/PELCA datasets,/tree/Release_PELCA_v2.0/PELCA datasets,13,7
+2026-10-01,14,/merce-fra/PELCA/blob/Release_PELCA_v2.0/CHANGELOG.md,/blob/Release_PELCA_v2.0/CHANGELOG.md,13,5
+2026-10-01,14,/merce-fra/PELCA/tree/Release_PELCA_v2.0/documentations,/tree/Release_PELCA_v2.0/documentations,12,5
+2026-10-01,14,/merce-fra/PELCA/blob/Release_PELCA_v2.0/PELCA datasets/PowerModuleAndCapacitor/PELCA_v2.0.0_PowerModuleAndCapacitor.xlsm,/blob/Release_PELCA_v2.0/PELCA datasets/PowerModuleAndCapacitor/PELCA_v2.0.0_PowerModuleAndCapacitor.xlsm,11,7
+2026-10-01,14,/merce-fra/PELCA/blob/Release_PELCA_v2.0/documentations/Algorithm.md,/blob/Release_PELCA_v2.0/documentations/Algorithm.md,9,3
+2026-10-01,14,/merce-fra/PELCA/tree/Release_PELCA_v2.0/PELCA datasets/PowerModuleAndCapacitor,/tree/Release_PELCA_v2.0/PELCA datasets/PowerModuleAndCapacitor,8,6
