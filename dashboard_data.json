@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T11:04:44Z",
+  "generated_at": "2026-11-12T14:00:04Z",
   "source": {
     "provider": "GitHub REST API",
     "repository": "merce-fra/PELCA",
@@ -52,7 +52,7 @@
       "views_uniques": 83
     },
     "repository": {
-      "captured_at": "2026-11-12T11:04:44Z",
+      "captured_at": "2026-11-12T14:00:04Z",
       "captured_on": "2026-11-12",
       "stars": 16,
       "forks": 5,
